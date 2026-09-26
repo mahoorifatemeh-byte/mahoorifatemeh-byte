@@ -3,7 +3,7 @@
 <h3 align="center">Data Analyst | Backend Developer (.NET) | Frontend Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=36BCF7&center=true&vCenter=true&lines=Data+Analyst+%7C+Backend+Dev+%7C+Frontend+Dev;Turning+Data+into+Insights;Building+Scalable+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=780&lines=Data+Analyst+%7C+Backend+Dev+%7C+Frontend+Dev;Turning+Data+into+Insights;Building+Scalable+Web+Apps" alt="Typing SVG" />
 </p>
 
 ---
@@ -48,18 +48,6 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 </p>
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahoorifatemeh-byte&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahoorifatemeh-byte&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahoorifatemeh-byte&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
