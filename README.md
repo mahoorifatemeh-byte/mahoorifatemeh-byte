@@ -1,16 +1,8 @@
-<h1 align="center">Hi there, I'm Fatemeh Mahoori 👋</h1>
-
-<h3 align="center">Data Analyst | Backend Developer (.NET) | Frontend Developer</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=780&lines=Data+Analyst+%7C+Backend+Dev+%7C+Frontend+Dev;Turning+Data+into+Insights;Building+Scalable+Web+Apps" alt="Typing SVG" />
-</p>
-
+<h1 align="center">Hi there, I'm Fatemeh Mahoori <h1></h1>
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎯 Passionate about **Data Analysis**, **Backend Development with .NET**, and **Frontend Design**
 - 📊 Currently learning **Data Science** and **Machine Learning**
 - 🌱 Love exploring new technologies and building real-world projects
 
